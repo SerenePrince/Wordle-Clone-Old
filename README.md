@@ -70,11 +70,3 @@ To get started with the project locally, follow these steps:
 ## Contribution
 
 Feel free to fork the repository and submit pull requests for any enhancements or fixes. If you have suggestions or questions, please open an issue in the Issues tab.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-This README provides a comprehensive explanation of your project and highlights the technologies and tools you’ve used. You can modify the installation and usage instructions if needed.
