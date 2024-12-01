@@ -16,7 +16,7 @@ const App = () => {
   useEffect(() => {
     const loadWordList = async () => {
       try {
-        const response = await fetch("./src/assets/word_list.txt");
+        const response = await fetch("./assets/word_list.txt");
         const text = await response.text();
         const words = text.split("\n").map((word) => word.trim().toUpperCase());
         setValidWords(words);
