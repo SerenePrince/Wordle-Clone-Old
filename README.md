@@ -1,6 +1,6 @@
 # Wordle Project
 
-[Play it Here!](https://sereneprince.github.io/Wordle-Project/)
+[Play it Here!](https://sereneprince.github.io/Wordle-Clone/)
 
 A Wordle clone built using React, JavaScript, and Vite. This project replicates the popular Wordle game where the player has six attempts to guess a hidden 5-letter word. The app provides feedback on each guess with color codes to indicate which letters are correct or need to be changed.
 
