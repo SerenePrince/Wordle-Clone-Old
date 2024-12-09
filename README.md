@@ -2,6 +2,8 @@
 
 # Wordle Clone  
 
+![wordle-clone-showcase](https://github.com/user-attachments/assets/64ee7e6a-15b9-4670-8933-a50afbc62247)
+
 [🎮 Play Here!](https://sereneprince.github.io/Wordle-Clone/)  
 
 A **Wordle** clone built with **React**, **JavaScript**, and **Vite**, replicating the popular word-guessing game. Players have six attempts to guess a hidden 5-letter word, with color-coded feedback to guide them.  
