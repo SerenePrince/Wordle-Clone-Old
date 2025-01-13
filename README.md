@@ -1,44 +1,58 @@
 ---
 
-# Wordle Clone  
+# Wordle Clone (Old)  
 
 ![wordle-clone-showcase](https://github.com/user-attachments/assets/64ee7e6a-15b9-4670-8933-a50afbc62247)
 
-[🎮 Play Here!](https://sereneprince.github.io/Wordle-Clone/)  
+**Wordle Clone** is a simple version of the popular word-guessing game built with **React** for the first time. This was my first real dive into React, and although the code is bloated and messy (as I was still learning!), it’s a good snapshot of my early journey into web development.
 
-A **Wordle** clone built with **React**, **JavaScript**, and **Vite**, replicating the popular word-guessing game. Players have six attempts to guess a hidden 5-letter word, with color-coded feedback to guide them.  
+The game follows the same mechanics as Wordle: you must guess a 5-letter word in 6 tries, with feedback after each guess that tells you which letters are correct or in the wrong position.
+
+---
+
+## 🎮 Play the Game  
+You can try the game [here!](https://sereneprince.github.io/Wordle-Clone/)  
 
 ---
 
 ## ✨ Features  
-- **Responsive Design**: Optimized for both desktop and mobile devices.  
-- **Interactive Feedback**: Real-time color-coded hints for each guess.  
-  - 🟩 **Green**: Correct letter in the correct position.  
-  - 🟨 **Yellow**: Correct letter in the wrong position.  
-  - ⬜ **Gray**: Incorrect letter.  
-- **Game Restart**: Start a new game by refreshing the page.  
+- **Color-Coded Feedback**:  
+   - 🟩 **Green**: Correct letter, correct position.  
+   - 🟨 **Yellow**: Correct letter, wrong position.  
+   - ⬜ **Gray**: Incorrect letter.  
+- **Multiple Tries**: You get 6 attempts to guess the word.  
+- **Responsive Design**: The game is optimized for both desktop and mobile devices.  
+- **Game Reset**: Refresh the page to get a new word and start again.  
 
 ---
 
-## 🛠️ Technologies  
-- **React**: For building the dynamic user interface.  
-- **JavaScript**: Core language for game logic.  
-- **Vite**: A fast, modern build tool for development and production.  
-- **CSS**: For clean, responsive styling.  
+## 🛠️ Technologies Used  
+- **React**: My first experience using React, focusing on components and state management.  
+- **JSX**: Integrated HTML-like syntax within JavaScript for UI components.  
+- **CSS**: Styled the game with a simple, clean layout inspired by the original Wordle.  
+- **Node.js (with npm)**: Managed dependencies and built the project.  
+
+---
+
+## 🧠 Skills Demonstrated  
+- **Learning React**: Gained experience with **components**, **state management**, and **hooks** (like `useState` and `useEffect`).  
+- **Understanding Game Logic**: Implemented logic to handle guesses, feedback, and attempts.  
+- **CSS Layouts**: Designed the game interface to mimic the Wordle aesthetic.  
+- **Development Setup**: Used **npm** and **Vite** for setting up the project and building it.  
 
 ---
 
 ## 🚀 Getting Started  
 
 ### Prerequisites  
-- Node.js and npm installed on your machine.  
+- Make sure you have **Node.js** and **npm** installed on your computer.
 
 ### Setup  
 1. Clone the repository:  
-   ```bash  
-   git clone https://github.com/SerenePrince/Wordle-Clone.git
+   ```bash
+   git clone https://github.com/SerenePrince/Wordle-Clone-Old.git
    cd wordle-clone  
-   ```  
+   ```
 2. Install dependencies:  
    ```bash  
    npm install  
@@ -47,22 +61,29 @@ A **Wordle** clone built with **React**, **JavaScript**, and **Vite**, replicati
    ```bash  
    npm run dev  
    ```  
-4. Open your browser and visit `http://localhost:[PORT]` to play.  
+4. Open your browser and go to `http://localhost:[PORT]` to start playing!  
 
 ---
 
 ## 🎮 How to Play  
-1. Enter a 5-letter word.  
-2. Feedback is given for each guess:  
-   - 🟩 Green: Correct letter, correct position.  
-   - 🟨 Yellow: Correct letter, wrong position.  
-   - ⬜ Gray: Incorrect letter.  
-3. Guess the word within six attempts.  
-4. Refresh the page to play again!  
+1. Enter a 5-letter word and hit Enter to submit.  
+2. The game will provide feedback for each guess:  
+   - 🟩 **Green**: Correct letter, correct position.  
+   - 🟨 **Yellow**: Correct letter, wrong position.  
+   - ⬜ **Gray**: Incorrect letter.  
+3. You have **6 attempts** to guess the correct word.  
+4. Refresh the page to play again with a new word!
 
 ---
 
-## 🤝 Contribution  
-Contributions are welcome! Fork the repository, create a branch for your feature or fix, and submit a pull request. Suggestions and questions can be added to the Issues tab.  
+## 🤝 Contributions  
+While this project was more of a learning experience, contributions are still welcome! If you want to improve the code, fix bugs, or suggest features, feel free to fork the repo, create a branch, and submit a pull request.
 
 ---
+
+### **Note on the "Old" Version**  
+This is the **old** version of the Wordle clone. It was a fun experiment with React and helped me learn a lot. Since then, I’ve improved my React skills, and I now have a new and cleaner version of the project available in another repository on my GitHub. Check out the updated version if you’re interested in seeing my progress!  
+
+---
+
+Feel free to adjust or expand upon this if there are any other specific details you'd like to highlight! When you're happy with this one, we can proceed to the next project.
