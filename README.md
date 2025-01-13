@@ -1,8 +1,8 @@
 ---
 
-# Wordle Clone (Old)
+# Wordle Clone (Old)  
 
-![wordle-clone-showcase](https://github.com/user-attachments/assets/64ee7e6a-15b9-4670-8933-a50afbc62247)
+![wordle-clone-showcase](https://github.com/user-attachments/assets/64ee7e6a-15b9-4670-8933-a50afbc62247) 
 
 **Wordle Clone** is a simple version of the popular word-guessing game built with **React** for the first time. This was my first real dive into React, and although the code is bloated and messy (as I was still learning!), it’s a good snapshot of my early journey into web development.
 
@@ -50,7 +50,7 @@ You can try the game [here!](https://sereneprince.github.io/Wordle-Clone/)
 ### Setup  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/SerenePrince/Wordle-Clone-Old.git
+   git clone https://github.com/SerenePrince/Wordle-Clone.git
    cd wordle-clone  
    ```
 2. Install dependencies:  
@@ -85,5 +85,3 @@ While this project was more of a learning experience, contributions are still we
 This is the **old** version of the Wordle clone. It was a fun experiment with React and helped me learn a lot. Since then, I’ve improved my React skills, and I now have a new and cleaner version of the project available in another repository on my GitHub. Check out the updated version if you’re interested in seeing my progress!  
 
 ---
-
-Feel free to adjust or expand upon this if there are any other specific details you'd like to highlight! When you're happy with this one, we can proceed to the next project.
