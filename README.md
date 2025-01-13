@@ -2,7 +2,7 @@
 
 # Wordle Clone (Old)  
 
-**Wordle Clone** is a simple version of the popular word-guessing game built with **React** for the first time. This was my first real dive into React, and although the code is bloated and messy (as I was still learning!), it’s a good snapshot of my early journey into web development. The game follows the same mechanics as Wordle: you must guess a 5-letter word in 6 tries, with feedback after each guess that tells you which letters are correct or in the wrong position.
+**Wordle Clone** is a simple version of the popular word-guessing game built with **React** for the first time. This was my first real dive into React, and although the code is bloated and messy (as I was still learning!), it’s a good snapshot of my early journey into web development. The game follows the same mechanics as Wordle, you must guess a 5-letter word in 6 tries, with feedback after each guess that tells you which letters are correct or in the wrong position.
 
 ---
 
