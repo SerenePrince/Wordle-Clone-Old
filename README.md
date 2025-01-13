@@ -1,6 +1,6 @@
 ---
 
-# Wordle Clone (Old)  
+# Wordle Clone (Old)
 
 ![wordle-clone-showcase](https://github.com/user-attachments/assets/64ee7e6a-15b9-4670-8933-a50afbc62247)
 
