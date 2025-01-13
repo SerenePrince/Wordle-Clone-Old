@@ -3,7 +3,6 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://sereneprince.github.io/Wordle-Clone-Old",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
