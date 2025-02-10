@@ -6,7 +6,7 @@ This **Wordle Clone** was my first real dive into **React** and front-end develo
 
 The game follows the same mechanics as Wordle: guess a **5-letter word** in **6 tries**, with color-coded feedback indicating correct letters and positions.  
 
-🔗 **Try it out here:** [Wordle Clone](https://sereneprince.github.io/Wordle-Clone/)  
+🔗 **Try it out here:** [Wordle Clone](https://sereneprince.github.io/Wordle-Clone-Old/)  
 
 ---
 
